@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/python
 """
 do_pack(): Generates a .tgz archive from the
 contents of the web_static folder
